@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;  
+}
+.first h1{
+    width: 30rem;
+
+}
+.first p{
+    width: 35rem;
+}
+.first .button{
+    display: flex;
+    margin-bottom: 5rem;
+}
+.first .button .meta1{
+    text-decoration: none;
+    background-color: teal;
+}
